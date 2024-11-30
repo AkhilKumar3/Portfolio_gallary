@@ -11,3 +11,8 @@ Custom Styling: The gallery uses custom styles to provide a clean and profession
 Technologies Used
 HTML: For the basic structure of the web page.
 CSS: For styling the layout, hover effects, and responsive design.
+
+## Styling ##
+these will help you to create this project by your own.
+background: linear-gradient(to right,#041308 ,#0b3317)
+font-size : 1.5rem
